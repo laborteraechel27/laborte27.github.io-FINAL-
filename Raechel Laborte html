@@ -1,0 +1,101 @@
+<!DOC TYPE html>
+<html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Raechel Laborte's Personal Website</title>
+</head>
+
+<body>
+
+<center>
+
+
+
+<table cellpadding=30>
+
+
+<tr>
+
+<td>
+<img src= "/storage/emulated/0/Personal Website/Snapchat-1448143519" alt="Raechel's Picture" width = "250" height ="500" </td>
+<td>
+  <center>
+    <p>Hi I'm</p>
+    <h1>RAECHEL MARIE LABORTE</center></h1><br>
+    <center>
+      <p><strong><em>"Soon to be a Professional<a href="job.html">Wattpad Writer</a></em></strong></p>
+    </center><br>
+    <p><h4><center>...💜Kpop Lover💜...</center></h4></p></td>
+  </tr>
+</table>
+
+
+</center><br>
+
+
+
+</td>
+
+<td>
+<h1>Raechel Laborte</h1>
+<p><strong>College Student</strong> and <em> <a href="https://www.wattpad.com/user/unnierae24">Wattpad Reader</a> </em> </p>
+<p>I'm BSIT Student at CSTC and I love to read.</p>
+</td>
+<h3>Course Subject</h3>
+<ul>
+<li>Web System and Technologies</li>
+<li>Introduction to human Computer interaction</li>
+</ul>
+<hr>
+<h3>Learning Experience</h3>
+<table border = 1>
+<thead>
+<tr>
+<th>Dates</th>
+
+</tr>
+
+</thead>
+
+</tbody>
+<tr>
+
+<p>2021-2022 Student</p>
+<p>2021 Student</p>
+</tr>
+<table>
+<tr>
+<td>2021-2022 Student</td>
+<td>Student</td>
+</tr>
+
+
+<tr>
+<td>HTML</td>
+<td>⭐⭐⭐⭐⭐</td>
+</tr>
+
+<tr>
+<td>CSS</td>
+<td>⭐⭐⭐⭐⭐</td>
+</tr>
+
+<tr>
+<td>JAVA</td>
+<td>⭐⭐⭐⭐⭐</td>
+</tr>
+html  5 Star
+CSS 5 Star
+JAVA 5 Star
+
+</table>
+
+<hr>
+<a href="My Hobbies.html">My Hobbies</a>
+<a href="my contacts.html">My Contacts</a>
+
+
+</body>
+
+</html>
